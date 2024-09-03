@@ -114,7 +114,10 @@ https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meani
 
 
 ## Bootstrap (design library)
-
+Bootstrap or Start Bootstrap is an open-source that creates Bootstrap themes, templates and code snippets that can used in any kind of project. Essentially, it is a design library for HTML, CSS and Javascript which issues security updates and UI updates from time to time. You can use it to create websites, in a way it is similar to Vscode for Java/python, just a place to work on code or get updates.
+Sources:
+https://getbootstrap.com/
+https://startbootstrap.com/
 
 ## Angular
 
