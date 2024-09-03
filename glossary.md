@@ -7,7 +7,7 @@ A front-end developer creates websites and applications using web languages such
 More to read: https://www.coursera.org/articles/front-end-developer, https://bootcamp.berkeley.edu/resources/coding/learn-web-development/what-does-a-front-end-web-developer-do/
 
 ## HTML
-Hawwwwwww teeee meee laaaa
+
 
 ## CSS
 
@@ -114,7 +114,11 @@ https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meani
 
 
 ## Bootstrap (design library)
+Bootstrap is a design library that you can edit code on. It is a way that gives you bootstrap templates, code snippets that you can use on any project. It is a design library for CSS, HTML, and Javascript that is similar in a way to VScode for Java or python. 
 
+Sources:
+https://startbootstrap.com/
+https://getbootstrap.com/
 
 ## Angular
 
